@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **waelkhayati/waelkhayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Wael</h1></summary>
   </ul>
 </div>
 
@@ -37,25 +35,23 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">It gets easier!</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, NextJS, NodeJS, NestJS, DigitalOcean**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to put together responsive full stack web Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in full stack web development.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **React, NextJS, NodeJS, NestJS, DigitalOcean**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out **khayatiwael@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also I work as a product owner and a full stack web developer at <a href="https://github.com/CodeCooperation">CodeCooperation</a>.
 <!--Intro end-->
 
 
