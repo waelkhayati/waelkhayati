@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=waelkhayati&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=waelkhayati&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,github,html,java,js,linux,materialui,mysql,nextjs,nodejs,postman,nestjs,tailwind,latex,webflow,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,github,html,java,js,linux,materialui,mysql,nextjs,nodejs,postman,nestjs,tailwind,latex,webflow,react,tailwind,ts,vscode&perline=12" />
   </a>
 </p>
 
