@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">It gets easier!</h2></summary>
+    <summary><h2 style="display: inline-block">Get to know me better!</h2></summary>
   </ul>
 </div>
 
